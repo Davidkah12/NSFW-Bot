@@ -1,10 +1,10 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
+  "prefix": "!",
+  "token": "MTIyNTAxNTY1MTY0MzU1OTk1Ng.GimGBg.tGBocrODCW1lZZjxXtYy9W5LNA8IR28dXmHsPY",
+  "owners": ["1224098929059168317"],
   "footer": "NSFW Bot • is.gd/nsfwbot",
 
-  "msg": {
+  "msg": {"Itt lenne a képed!"
     "nsfwWarn": "You must use this command in an nsfw channel!",
     "loading": "Please wait...",
     "imageNotLoading": "Image not loading ? Click Here"
